@@ -1,2 +1,2 @@
 #!/bin/bash
-find -empty | tr [:name:]   
+find -empty | files -l   
